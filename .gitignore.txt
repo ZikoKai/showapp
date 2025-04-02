@@ -1,0 +1,10 @@
+# Flutter
+application/.flutter-plugins
+application/.dart_tool/
+application/build/
+application/ios/
+application/android/
+
+# Node.js (backend)
+show-app-backend/node_modules/
+show-app-backend/.env
